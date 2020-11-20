@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+<h1 align="center">
+  Tinder Clone Project with Frontend & Backend
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Description:
+- A simple Tinder Clone webapp
 
-## Available Scripts
+# 🚀 Technical Stack:
 
-In the project directory, you can run:
+## Frontend:
+- Programming Language: JavaScript
+- Framework: Gatsby
+- IDE: VScode
+- APIs: SnipKart, Contentful
+- Hosting & Serverless computing: Netlify 
 
-### `yarn start`
+## Backend:
+- Programming Language: NodeJS
+- Framework: Express
+- IDE: VScode
+- DataBase: MongoDB
+- Hosting & Serverless computing: Heroku 
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### Frontend: https://yash-tinder-clone.netlify.app/
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+#### Backend: https://yash-tinder-clone-backend.herokuapp.com/
 
-### `yarn test`
+## 🎓 What I learned?
+- UI components Handling
+- Connecting to Database
+- Postman Get, Post requests handling
+- Fetching Data from Db
+- CI/CD with git
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+#### 🧐 Link to the Website: https://yash-tinder-clone.netlify.app/
 
-### `yarn build`
+## 💫 Video Demo 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Pictures
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+![tinder2](https://user-images.githubusercontent.com/53042582/99856193-73151f00-2bae-11eb-828c-ed5d4bf84720.jpg)
+![tinder1](https://user-images.githubusercontent.com/53042582/99856198-74dee280-2bae-11eb-81ea-492584e601fc.jpg)
+![tinder3](https://user-images.githubusercontent.com/53042582/99856199-75777900-2bae-11eb-8e9c-671bf5903384.jpg)
 
-### `yarn eject`
+### Here are my social media handles:
+Linkedin: https://www.linkedin.com/in/iyashjayesh/
+Instagram: https://www.instagram.com/iyashjayesh/
+Twitter: https://twitter.com/iyashjayesh
+Medium:  https://medium.com/@iyashjayesh  
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+###### Email: er.yashjayeshchauhan@gmail.com
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+### Thank you!
